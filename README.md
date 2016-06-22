@@ -1,6 +1,10 @@
 # mq-event-display
 Previously released as SupportPac MH05
 
+
+#NOTE: THIS IS A PLACEHOLDER REPO FOR NOW. CODE WILL FOLLOW SOON.
+
+
 History
 =======
 June 2016 - Initial release
